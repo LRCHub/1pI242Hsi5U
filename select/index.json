@@ -1,64 +1,112 @@
 {
   "version": 1,
-  "base_track": "金木犀",
+  "base_track": "メーベル",
   "base_artist": "なとり",
-  "createdAt": "2026-03-05T13:52:32.491258Z",
+  "createdAt": "2026-03-22T18:09:00.614659Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "金木犀",
-      "artist": "AiNA THE END",
+      "title": "メーベル",
+      "artist": "バルーン",
       "has_synced": true,
-      "path": "select/01_金木犀_AiNA_THE_END.lrc"
+      "path": "select/01_メーベル_バルーン.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "金木犀",
-      "artist": "なとり",
-      "has_synced": false,
-      "path": "select/02_金木犀_なとり.txt"
+      "title": "メーベル",
+      "artist": "バルーン feat. v flower",
+      "has_synced": true,
+      "path": "select/02_メーベル_バルーン_feat._v_flower.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "金木犀",
-      "artist": "アイナ・ジ・エンド",
+      "title": "メーベル",
+      "artist": "Eve",
       "has_synced": true,
-      "path": "select/03_金木犀_アイナ・ジ・エンド.lrc"
+      "path": "select/03_メーベル_Eve.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "金木犀 - Osmanthus (feat. Ado)",
-      "artist": "WhaleDontSleep",
+      "title": "メーベル (self cover)",
+      "artist": "balloon",
       "has_synced": true,
-      "path": "select/04_金木犀_-_Osmanthus_(feat._Ado)_WhaleDontSleep.lrc"
+      "path": "select/04_メーベル_(self_cover)_balloon.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "金木犀",
-      "artist": "なとり",
-      "has_synced": true,
-      "path": "select/05_金木犀_なとり.lrc"
+      "title": "メーベル",
+      "artist": "この子",
+      "has_synced": false,
+      "path": "select/05_メーベル_この子.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "金木犀 feat. 鈴木真海子",
-      "artist": "TOSHIKI HAYASHI (%C)",
-      "has_synced": false,
-      "path": "select/06_金木犀_feat._鈴木真海子_TOSHIKI_HAYASHI_(_C).txt"
+      "title": "メーベル",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/06_メーベル_balloon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メーベル／flower",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/07_メーベル_flower_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メーベル／バルーン(self cover)",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/08_メーベル_バルーン(self_cover)_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "Eve x Sou",
+      "has_synced": true,
+      "path": "select/09_メーベル_Eve_x_Sou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/10_メーベル_なとり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "Eve / Sou",
+      "has_synced": true,
+      "path": "select/11_メーベル_Eve___Sou.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "Eve, Sou",
+      "has_synced": true,
+      "path": "select/12_メーベル_Eve,_Sou.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "金木犀",
+      "title": "メーベル",
       "artist": "なとり",
       "has_synced": false,
-      "path": "select/pl_01_金木犀_なとり.txt"
+      "path": "select/pl_01_メーベル_なとり.txt"
     }
   ]
 }
